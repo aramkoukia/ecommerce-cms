@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Headless CMS
 
-A quick description of your strapi application
+A headless CMS with Strapi for an open-source e-commerce
