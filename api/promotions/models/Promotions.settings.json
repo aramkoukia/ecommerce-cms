@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "promotions",
+  "info": {
+    "name": "promotions",
+    "description": "marketing promotions content"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
