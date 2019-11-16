@@ -35,6 +35,10 @@
     },
     "Enabled": {
       "type": "boolean"
+    },
+    "Category": {
+      "model": "categories",
+      "via": "Products"
     }
   }
 }
